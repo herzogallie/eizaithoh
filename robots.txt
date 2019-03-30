@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://itithoolah.platanymed.pl/sitemap.xml
